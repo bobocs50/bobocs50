@@ -23,15 +23,16 @@
 
 ## About
 
-<img src="Guitar%20Kakao%20Friends.gif" alt="Guitar Kakao Friends" width="200"/>
 
-What drives my work:
+<img src="Guitar%20Kakao%20Friends.gif" alt="Guitar Kakao Friends" width="200" align="right" hspace="20"/>
+What drives my work:<br>
+- Using cutting-edge tools to build systems that change lives<br>
+- Genuine curiosity for new AI/ML tech<br>
+<br>&#8203;
+Outside of tech:<br>
+- Calisthenics, Swimming, Guitar & Piano, Learning languages
 
-- Using cutting-edge tools to build systems that change lives
-- Genuine curiosity for new AI/ML tech  
-
-Outside of tech:
-- Calisthenics,  Swimming, Guitar & Piano, Learning languages
+<br>&#8203;
 
 ---
 
