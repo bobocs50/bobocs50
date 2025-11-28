@@ -3,12 +3,12 @@
 
 <p align="center">
   <!-- LinkedIn square icon -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="linkedin.com/in/bobocs50" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;
   <!-- Website square icon (orange) -->
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://devpost.com/bobocs50?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
     <img src="https://img.shields.io/badge/-Website-FFA500?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website" height="40"/>
   </a>
   &nbsp;
