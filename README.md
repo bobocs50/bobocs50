@@ -1,5 +1,24 @@
-## Hi, I'm Philipp 👋
-# Building stuff that have a real impact!
+<h1 align="center">Hi, I'm Philipp 👋</h1>
+<p align="center">Building stuff that has real impact!</p>
+
+<p align="center">
+  <!-- LinkedIn square icon -->
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Website square icon (orange) -->
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-FFA500?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Profile Views fixed number -->
+  <img src="https://img.shields.io/badge/Profile%20Views-2320-blue?style=for-the-badge" alt="Profile Views" height="40"/>
+</p>
+
+
+
+
 ---
 
 ## About
