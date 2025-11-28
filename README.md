@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- LinkedIn square icon -->
-  <a href="linkedin.com/in/bobocs50" target="_blank">
+  <a href="https://www.linkedin.com/in/bobocs50" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;
