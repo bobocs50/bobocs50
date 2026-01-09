@@ -28,6 +28,7 @@
 What drives my work:<br>
 - Using cutting-edge tools to build systems that change lives<br>
 - Genuine curiosity for new AI/ML tech<br>
+- Proving people wrong<br>
 <br>&#8203;
 Outside of tech:<br>
 - Calisthenics, Swimming, Guitar & Piano, Learning languages
