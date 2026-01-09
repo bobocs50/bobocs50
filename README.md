@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Philipp 👋</h1>
-<p align="center">Building stuff that has real impact!</p>
+<p align="center">I am a second-year business informatics student at University of Potsdam, passionate about exploring the realms of coding, machine learning, and building robust applications.</p>
 
 <p align="center">
   <!-- LinkedIn square icon -->
