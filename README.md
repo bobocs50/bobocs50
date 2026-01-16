@@ -1,21 +1,50 @@
 <h1 align="center">Hi, I'm Philipp 👋</h1>
-<p align="center">I am a second-year business informatics student at University of Potsdam, passionate about exploring the realms of coding, machine learning, and building robust applications.</p>
 
 <p align="center">
-  <!-- LinkedIn square icon -->
-  <a href="https://www.linkedin.com/in/bobocs50" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-  </a>
-  &nbsp;
-  <!-- Website square icon (orange) -->
-  <a href="https://devpost.com/bobocs50?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-FFA500?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website" height="40"/>
-  </a>
-  &nbsp;
-  <!-- Profile Views fixed number -->
-  <img src="https://img.shields.io/badge/Profile%20Views-2320-blue?style=for-the-badge" alt="Profile Views" height="40"/>
+  I am a second-year business informatics student at the University of Potsdam, 
+  passionate about exploring coding, machine learning, and building robust applications.
 </p>
 
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/bobocs50" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+      height="40"
+    />
+  </a>
+  &nbsp;
+
+  <!-- Personal Website -->
+  <a href="https://philipphuynh.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      alt="Personal Website" 
+      height="40"
+    />
+  </a>
+  &nbsp;
+
+  <!-- Devpost -->
+  <a href="https://devpost.com/bobocs50?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" 
+      alt="Devpost" 
+      height="40"
+    />
+  </a>
+  &nbsp;
+
+  <!-- Profile Views -->
+  <a href="#">
+    <img 
+      src="https://img.shields.io/badge/Profile%20Views-2320-blue?style=for-the-badge" 
+      alt="Profile Views" 
+      height="40"
+    />
+  </a>
+</p>
 
 
 
