@@ -2,7 +2,7 @@
 
 <p align="center">
   I am a second-year business informatics student at the University of Potsdam, 
-  passionate about exploring coding, machine learning, and building robust applications.
+  passionate about exploring coding, machine learning, and building robust applications. Still building bulletproof foundations.
 </p>
 
 <p align="center">
