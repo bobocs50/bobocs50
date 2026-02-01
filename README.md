@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Philipp 👋</h1>
 
 <p align="center">
-  I am a second-year business informatics student at the University of Potsdam, 
-  passionate about exploring coding, machine learning, and building robust applications. Focused on building bulletproof foundations.
+ I am a second-year Business Informatics student at the University of Potsdam,
+  passionate about coding, machine learning, and building robust applications.
+  I focus on developing strong, reliable foundations and growing into the best agentic engineer.
+  I am also building AnkiMax, an AI-assisted, science-based flashcard and learning system—similar to NotebookLM, but focused on understanding and mastering university lectures really quick.
 </p>
 
 <p align="center">
