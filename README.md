@@ -54,10 +54,6 @@
 
 
 <img src="Guitar%20Kakao%20Friends.gif" alt="Guitar Kakao Friends" width="200" align="right" hspace="20"/>
-  I focus on developing strong, reliable foundations and growing into the best agentic engineer. 
- Besidest that I am also building AnkiMax, an AI-assisted, science-based flashcard and 
- learning system—similar to NotebookLM, but focused on understanding
- and mastering university lectures really quick.
 
 What drives my work:<br>
 - Using cutting-edge tools to build systems that help people or me <br>
