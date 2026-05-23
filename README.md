@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Philipp 👋</h1>
 
 <p align="center">
- I am a second-year Business Informatics student at the University of Potsdam,
-  passionate about coding, machine learning, and building robust applications.
-</p>
-
-<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/bobocs50" target="_blank">
     <img 
