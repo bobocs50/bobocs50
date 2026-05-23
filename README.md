@@ -55,8 +55,6 @@ What drives my work:<br>
 - Using cutting-edge tools to build systems that help people or me <br>
 - Genuine curiosity for new AI/ML tech<br>
 - Proving people wrong<br>
-
-
 <br>
 
 
