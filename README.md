@@ -60,9 +60,6 @@ What drives my work:<br>
 - Genuine curiosity for new AI/ML tech<br>
 - Proving people wrong<br>
 <br>
-Outside of tech:<br>
-- Calisthenics, Swimming, Guitar & Piano, Learning languages
-<br>
 
 
 ---
@@ -94,20 +91,3 @@ Outside of tech:<br>
 
 
 
-## Let's Connect
-I’m into AI/ML platforms, real-time systems, agentic workflows, voice-first interfaces, and knowledge graphs.
-Always up for tech chats, collaborations, or building impactful projects.
-<!--
-**bobocs50/bobocs50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
