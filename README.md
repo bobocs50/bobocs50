@@ -50,7 +50,7 @@
 
 <img src="Guitar%20Kakao%20Friends.gif" alt="Guitar Kakao Friends" width="190" align="right" hspace="20"/>
 
-⚡ TechEurope EnergyHack — 🥇 Cloover Challenge (1st Place) · 🥉 Overall (3rd Place)<br>
+⚡ TechEurope EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
 ⚡ Impact Hackathon — 1st Place
 
 What drives my work:<br>
