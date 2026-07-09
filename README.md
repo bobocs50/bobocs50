@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Philipp 👋</h1>
+<h1 align="center">on a mission</h1>
 
 <p align="center">
   <!-- LinkedIn -->
