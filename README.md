@@ -52,7 +52,7 @@
 ⚡ TechEurope EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
 ⚡ Impact Hackathon — 1st Place
 
-**Currently:** Building [Ankimax](https://www.ankimax.xyz/), the fastest, most consistent AI-powered Anki desktop app for science-based learning.
+**Currently:** Building [Ankimax](https://www.ankimax.xyz/), the fastest, most consistent AI-powered Anki<br> desktop app for science-based learning.
 
 **What drives my work:**
 - Using cutting-edge tools to build systems that help people or me
