@@ -50,8 +50,8 @@
 <img src="Guitar%20Kakao%20Friends.gif" alt="Guitar Kakao Friends" width="190" align="right" hspace="20"/>
 
 ⚡ TechEurope EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
-⚡ Impact Hackathon — 1st Place
-⚡ Mobile Berlin Hackathon — 1st Place
+⚡ Impact Hackathon — 1st Place <br>
+⚡ Mobile Berlin Hackathon — 1st Place <br>
 ⚡ Bloomreach Composable Hackathon — 3rd Place
 
 **Currently:** 
