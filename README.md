@@ -51,6 +51,8 @@
 
 ⚡ TechEurope EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
 ⚡ Impact Hackathon — 1st Place
+⚡ Mobile Berlin Hackathon — 1st Place
+⚡ Bloomreach Composable Hackathon — 3rd Place
 
 **Currently:** 
 - Building [Ankimax](https://www.ankimax.xyz/), the fastest, most consistent AI-powered Anki<br> desktop app for science-based learning.
