@@ -1,4 +1,4 @@
-<h1 align="center">so good nobody cant ignore u "cal newport"</h1>
+<h1 align="center">"so good nobody cant ignore u" ~cal newport</h1>
 
 <p align="center">
   <!-- LinkedIn -->
