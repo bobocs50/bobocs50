@@ -55,7 +55,8 @@
 ⚡ Bloomreach Composable Hackathon — 3rd Place
 
 **Currently:** 
-- Building [Ankimax](https://www.ankimax.xyz/), the fastest, most consistent AI-powered Anki<br> desktop app for science-based learning.
+- Building [Ankimax](https://www.ankimax.xyz/), the fastest, most consistent AI-powered Anki<br> desktop app for science-based learning.<br>
+- Ambassador at Hackathon Hub, the largest hackathon ecosystem in Europe.
 
 **What drives my work:**
 - Using cutting-edge tools to build systems that help people or me
