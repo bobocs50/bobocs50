@@ -52,7 +52,7 @@
 ⚡ TechEurope EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
 ⚡ Impact Hackathon —  🥇 1st Place <br>
 ⚡ Mobile Berlin Hackathon — 🥇 1st Place <br>
-⚡ Google Developer Group x MLH Agentic Hack —  🥉 4rd Place
+⚡ Google Developer Group x MLH Agentic Hack —  🥉 4th Place
 
 **Currently:** 
 - Building [Ankimax](https://www.ankimax.xyz/), the fastest, most consistent AI-powered Anki<br> desktop app for science-based learning.<br>
