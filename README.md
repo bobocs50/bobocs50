@@ -49,7 +49,7 @@
 
 <img src="Guitar%20Kakao%20Friends.gif" alt="Guitar Kakao Friends" width="190" align="right" hspace="20"/>
 
-⚡ TechEurope EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
+⚡ TechEurope OpenAI EnergyHack — 🥇 Cloover Track (1st Place) · 🥉 Overall (3rd Place)<br>
 ⚡ Google Developer Group x MLH Agentic Hack —  🥉 4th Place<br>
 ⚡ Impact Hackathon —  🥇 1st Place <br>
 ⚡ Mobile Berlin Hackathon — 🥇 1st Place <br>
